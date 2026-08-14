@@ -1,0 +1,6 @@
+{
+  "name": "Digital Agency Website",
+  "description": "Single-page responsive static digital agency website featuring interactive services, stats counter, testimonials carousel, and magnetic interactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
